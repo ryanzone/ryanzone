@@ -1,5 +1,5 @@
 # Hi, I'm Ryan John Mathew 
-## <br><br>I'm an aspiring software engineer with a deep interest in Artificial Intelligence, Machine Learning, and Deep Learning.<br>I enjoy exploring how intelligent systems work and love building things that combine creativity, logic, and data.
+I'm an aspiring software engineer with a deep interest in Artificial Intelligence, Machine Learning, and Deep Learning.<br>I enjoy exploring how intelligent systems work and love building things that combine creativity, logic, and data.
 
 
 ## 🌐 Socials:

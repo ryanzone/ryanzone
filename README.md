@@ -1,4 +1,4 @@
-### GitHub Stats:
+![](https://github.com/ryanzone/ryanzone/blob/main/GitHub_Stats.png)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=ryanzone&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ryanzone&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanzone&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

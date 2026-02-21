@@ -29,6 +29,14 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryanzone&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+---
+
 # GitHub Analytics
 
 <p align="center">
@@ -42,10 +50,46 @@
 
 ---
 
-# 3D Contribution Graph
+# 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanzone&bg_color=0a0000&color=ffaaaa&line=cc0000&point=ff4444&area=true&area_color=cc0000&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanzone/ryanzone/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanzone/ryanzone/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ryanzone/ryanzone/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+---
+
+# 🧊 3D Contribution Graph
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-red.svg" width="100%"/>
+</p>
+
+---
+
+# 📊 Detailed Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanzone&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanzone&theme=radical" height="170em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanzone&theme=radical" height="170em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanzone&theme=radical" height="170em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanzone&theme=radical&utcOffset=5.5" height="170em" />
 </p>
 
 ---
@@ -54,23 +98,45 @@
 
 <p align="center">
   <a href="https://github.com/ryanzone/Astrodyssey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=Astrodyssey&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=Astrodyssey&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
   <a href="https://github.com/ryanzone/ICM_ML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=ICM_ML&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=ICM_ML&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryanzone/AI_Fraud_Detect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=AI_Fraud_Detect&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+  </a>
+  <a href="https://github.com/ryanzone/AuroraSense">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=AuroraSense&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryanzone/RoomyAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=RoomyAI&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=RoomyAI&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
   <a href="https://github.com/ryanzone/SpaceGENAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=SpaceGENAI&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=SpaceGENAI&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryanzone/FIFA-AI-MATCH-PREDICTOR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=FIFA-AI-MATCH-PREDICTOR&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+  </a>
+  <a href="https://github.com/ryanzone/cpu_io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=cpu_io&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryanzone&style=for-the-badge&color=cc0000&label=PROFILE+VIEWS" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:cc0000,100:0a0000&height=120&section=footer"/>

@@ -127,9 +127,7 @@
   <a href="https://github.com/ryanzone/FIFA-AI-MATCH-PREDICTOR">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=FIFA-AI-MATCH-PREDICTOR&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
-  <a href="https://github.com/ryanzone/cpu_io">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=cpu_io&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-  </a>
+
 </p>
 
 ---

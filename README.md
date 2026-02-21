@@ -79,17 +79,17 @@
 # 📊 Detailed Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanzone&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanzone&theme=2077" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanzone&theme=radical" height="170em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanzone&theme=radical" height="170em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanzone&theme=2077" height="170em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanzone&theme=2077" height="170em" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanzone&theme=radical" height="170em" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanzone&theme=radical&utcOffset=5.5" height="170em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanzone&theme=2077" height="170em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanzone&theme=2077&utcOffset=5.5" height="170em" />
 </p>
 
 ---

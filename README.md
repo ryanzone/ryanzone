@@ -40,8 +40,8 @@
 # GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ryanzone&show_icons=true&hide_border=true&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanzone&layout=compact&hide_border=true&bg_color=0a0000&title_color=cc0000&text_color=ffaaaa" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ryanzone&show_icons=true&hide_border=true&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&count_private=true" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryanzone&layout=compact&hide_border=true&bg_color=0a0000&title_color=cc0000&text_color=ffaaaa" />
 </p>
 
 <p align="center">
@@ -98,37 +98,37 @@
 
 <p align="center">
   <a href="https://github.com/ryanzone/Astrodyssey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=Astrodyssey&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=Astrodyssey&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
   <a href="https://github.com/ryanzone/ICM_ML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=ICM_ML&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=ICM_ML&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryanzone/AI_Fraud_Detect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=AI_Fraud_Detect&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=AI_Fraud_Detect&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
   <a href="https://github.com/ryanzone/AuroraSense">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=AuroraSense&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=AuroraSense&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryanzone/RoomyAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=RoomyAI&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=RoomyAI&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
   <a href="https://github.com/ryanzone/SpaceGENAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=SpaceGENAI&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=SpaceGENAI&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryanzone/FIFA-AI-MATCH-PREDICTOR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=FIFA-AI-MATCH-PREDICTOR&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=FIFA-AI-MATCH-PREDICTOR&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
   <a href="https://github.com/ryanzone/cpu_io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryanzone&repo=cpu_io&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=cpu_io&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>
 </p>
 

@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:cc0000,100:1a0000&height=220&section=header&text=Ryan&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AIML%20Student&descSize=20&descAlignY=60&descColor=ffaaaa" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Deep+Learning+%7C+AI+Research;Python+%7C+C+%7C+C%2B%2B;Always+Learning." />
-</p>
-
 ---
 
 # About

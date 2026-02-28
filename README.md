@@ -13,22 +13,7 @@
 - AIML Student focused on **Machine Learning & Deep Learning**
 - Strong interest in **systems, optimization, and performance**
 - Comfortable with **Python, C, C++**
-- I build things to understand them deeply
-
----
-
-# Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css&perline=8&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,jupyter,git,github,linux,vscode&perline=7&theme=dark" />
-</p>
-
----
-
+- I build things for fun
 
 ---
 

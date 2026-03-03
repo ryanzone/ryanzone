@@ -9,7 +9,7 @@
 - AIML Student focused on **Machine Learning & Deep Learning**
 - Strong interest in **systems, optimization, and performance**
 - Comfortable with **Python, C, C++**
-- I build things for fun
+- I build things for fun and hopefully works
 
 ---
 

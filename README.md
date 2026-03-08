@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:cc0000,100:1a0000&height=220&section=header&text=Ryan&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AIML%20Student&descSize=20&descAlignY=60&descColor=ffaaaa" width="100%"/>
-</p>
-
----
 
 # About
 

@@ -66,19 +66,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryanzone/AI_Fraud_Detect">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=AI_Fraud_Detect&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-  </a>
-  <a href="https://github.com/ryanzone/AuroraSense">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=AuroraSense&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryanzone/RoomyAI">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=RoomyAI&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-  </a>
   <a href="https://github.com/ryanzone/SpaceGENAI">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=SpaceGENAI&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
   </a>

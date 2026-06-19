@@ -55,37 +55,40 @@
 </p>
 
 ---
-
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ryanzone/Astrodyssey">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=Astrodyssey&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-  </a>
-  
-  <a href="https://github.com/ryanzone/ICM_ML">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=ICM_ML&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td>
 
-<p align="center">
-  <a href="https://github.com/ryanzone/SpaceGENAI">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=SpaceGENAI&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-  </a>
-</p>
+<a href="https://github.com/ryanzone/Astrodyssey">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=Astrodyssey&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/ryanzone/FIFA-AI-MATCH-PREDICTOR">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=FIFA-AI-MATCH-PREDICTOR&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-  </a>
-</p>
+</td>
+<td>
 
----
+<a href="https://github.com/ryanzone/ICM_ML">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=ICM_ML&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryanzone&style=for-the-badge&color=cc0000&label=PROFILE+VIEWS" />
-</p>
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:cc0000,100:0a0000&height=120&section=footer" />
-</p>
+<tr>
+<td>
+
+<a href="https://github.com/ryanzone/SpaceGENAI">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=SpaceGENAI&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+</a>
+
+</td>
+<td>
+
+<a href="https://github.com/ryanzone/FIFA-AI-MATCH-PREDICTOR">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=FIFA-AI-MATCH-PREDICTOR&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
+</a>
+
+</td>
+</tr>
+</table>

@@ -41,54 +41,18 @@
 ## Detailed Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanzone&theme=2077" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanzone&bg_color=0a0000&title_color=cc0000&text_color=ffaaaa&color_invert=false" width="100%" />
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanzone&theme=2077" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanzone&theme=2077" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryanzone&bg_color=0a0000&title_color=cc0000&text_color=ffaaaa&color_invert=false" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryanzone&bg_color=0a0000&title_color=cc0000&text_color=ffaaaa&color_invert=false" />
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanzone&theme=2077" />
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanzone&theme=2077&utcOffset=5.5" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryanzone&bg_color=0a0000&title_color=cc0000&text_color=ffaaaa&color_invert=false" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryanzone&bg_color=0a0000&title_color=cc0000&text_color=ffaaaa&color_invert=false&utcOffset=5.5" />
 </p>
 
 ---
-## Featured Projects
 
-<table align="center">
-<tr>
-<td>
-
-<a href="https://github.com/ryanzone/Astrodyssey">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=Astrodyssey&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-</a>
-
-</td>
-<td>
-
-<a href="https://github.com/ryanzone/ICM_ML">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=ICM_ML&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<a href="https://github.com/ryanzone/SpaceGENAI">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=SpaceGENAI&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-</a>
-
-</td>
-<td>
-
-<a href="https://github.com/ryanzone/FIFA-AI-MATCH-PREDICTOR">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ryanzone&repo=FIFA-AI-MATCH-PREDICTOR&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&border_color=cc0000" />
-</a>
-
-</td>
-</tr>
-</table>

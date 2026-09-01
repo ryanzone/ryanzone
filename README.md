@@ -21,13 +21,6 @@
 
 ---
 
-## Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanzone&bg_color=0a0000&color=ffaaaa&line=cc0000&point=ff4444&area=true&area_color=cc0000&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
-</p>
-
----
 
 ## 3D Contribution Graph
 

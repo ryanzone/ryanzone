@@ -12,8 +12,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ryanzone&show_icons=true&hide_border=true&bg_color=0a0000&title_color=cc0000&icon_color=cc0000&text_color=ffaaaa&count_private=true" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryanzone&layout=compact&hide_border=true&bg_color=0a0000&title_color=cc0000&text_color=ffaaaa" />
+
 </p>
 
 <p align="center">

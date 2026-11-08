@@ -8,7 +8,9 @@
 - I build things for fun and hopefully they work
 
 ---
-
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/wordmark?username=ryanzone&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F75768806%3Fu%3D5e10b33a647775302976d4d26dc8354e486e2902%26v%3D4&label=Ryan%20John%20Mathew&v=cinematic-hero-wordmark-1&mode=dark" width="650" alt="Ryan animated ASCII name" />
+</p>
 ## GitHub Analytics
 
 <p align="center">
